@@ -1,6 +1,6 @@
 {
   "name": "project-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API route /api/:date? accepts a date parameter (or we can leave it out) and rotates the object with Unix timestamp and UTC date format. If the date parameter is not entered or is in an incorrect format, the object is rotated with the “Invalid Date” mark.",
   "main": "index.js",
   "scripts": {
